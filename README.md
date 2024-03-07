@@ -1,7 +1,4 @@
 # Repostas---Jennifer-
-Caso de teste automatizado para adicionar 2 itens (qualquer) no carrinho e finalizar a compra
-no carrinho. Validar a mensagem Thank you for your order!
-
 *** Settings ***
 Library    SeleniumLibrary
 
